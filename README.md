@@ -1,14 +1,15 @@
 ### Hi there 👋
-I am Jan from Karlsuhe, Germany. I study mechatronics and information technology at KIT finishing my Bachelor's degree right now.
+I’m Jan from Karlsruhe, Germany 🇩🇪  
+Master’s student in **Mechatronics and Information Technology** at **KIT**, focusing on **automation, control, and robotics**.
 
-I have a part-time job at the KIT language center programming the registration platform for speech courses (anmeldung.spz.kit.edu).
-I like to code in the area of web applications with Python as backend using Flask.
-Originally, I started working in the spanish department. I love the Latino culture and I am eager to improve my spanish in every occasion.
-After one semester I joined the database team adittionally to optimize the daily workflow adding new features to the registration platform.
+I have experience in **robotics simulation (MuJoCo)** and **control**, **web development**, and **self-hosted infrastructure**.
 
-- 🔭 I’m currently working on a backup script using kopia for automated daily backups.
-- 🌱 I’m currently learning Python wanting to implement a neural network
+## Tech I’ve worked with
+Python · C++ · Flask · HTML/CSS · Docker · MuJoCo · Linux · Matrix
+
 <!--
+- 🔭 I’m currently working on a backup script using kopia for automated daily backups of my Matrix server database.
+- 🌱 I’m currently learning Python wanting to implement a neural network
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,5 +18,4 @@ After one semester I joined the database team adittionally to optimize the daily
 - 📫 How to reach me: coding@fenker.eu
 <!--- 🔜 Coming soon: My own webpage-->
 - 😄 Pronouns: he/him
-
 
