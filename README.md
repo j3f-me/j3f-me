@@ -4,7 +4,7 @@ Master’s student in **Mechatronics and Information Technology** at **KIT**, fo
 
 I have experience in **robotics simulation (MuJoCo)** and **control**, **web development**, and **self-hosted infrastructure**.
 
-## Tech I’ve worked with
+### Tech I’ve worked with
 Python · C++ · Flask · HTML/CSS · Docker · MuJoCo · Linux · Matrix
 
 <!--
