@@ -5,7 +5,7 @@ Master’s student in Mechatronics and Information Technology at KIT, focusing o
 I have experience in robotics simulation (MuJoCo) and control, web development, and self-hosted infrastructure.
 
 ### Tech I’ve worked with
-Python · C/C++ · MuJoCo · Flask · HTML/CSS · Docker · Linux
+Python · C/C++ · MuJoCo · ros2 · Flask · HTML/CSS · Docker · Linux
 
 <!--
 - 🔭 I’m currently working on a backup script using kopia for automated daily backups of my Matrix server database.
