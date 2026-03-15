@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m Jan from Karlsruhe, Germany 🇩🇪  
-Master’s student in Mechatronics and Information Technology at KIT, focusing on **automation, control, and robotics**.
+Master’s student in Mechatronics and Information Technology at KIT, focusing on automation, control, and robotics.
 
 I have experience in robotics simulation (MuJoCo) and control, web development, and self-hosted infrastructure.
 
