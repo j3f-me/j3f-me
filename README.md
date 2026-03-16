@@ -15,7 +15,6 @@ Python · C/C++ · MuJoCo · ros2 · Flask · HTML/CSS · Docker · Linux
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: coding@fenker.eu
-<!--- 🔜 Coming soon: My own webpage-->
-- 😄 Pronouns: he/him
+<!--- 🔜 Coming soon: My own webpage
+- 😄 Pronouns: he/him-->
 
